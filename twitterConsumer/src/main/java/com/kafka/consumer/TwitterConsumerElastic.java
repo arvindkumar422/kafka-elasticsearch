@@ -162,7 +162,6 @@ public class TwitterConsumerElastic {
       }
     }
 
-    // close the client gracefully
     // client.close();
 
   }
